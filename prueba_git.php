@@ -15,7 +15,7 @@
                 padding: 0;
                 width: 100%;
                 display: table;
-                font-weight: 100;
+                font-weight: 200;
                 font-family: 'Lato';
             }
 
