@@ -40,6 +40,7 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
         <p> <b>lorem lorem lorem</b></p>
+    <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO</p>
             </div>
         </div>
     </body>
