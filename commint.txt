@@ -1,0 +1,41 @@
+commit 28f3afe761e36b3a33c241095687af03e4580d97
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 17 18:47:30 2017 -0300
+
+    GREGUE ...
+
+commit ecf29bc25fa65953eb2e864af3ab119dcb15d4dc
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 17 18:44:59 2017 -0300
+
+    no se modifico nada
+
+commit b9626805273d7bacdb41c63422bfa6ae82ed9dad
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Mon Oct 16 12:43:40 2017 -0300
+
+    se agrego boton con estilo bootstrap
+
+commit 823369687117dd2430eaa9eff0741f513c21a1ae
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Mon Oct 16 12:32:28 2017 -0300
+
+    se agrego boton
+
+commit f9821059391a5bc59638c45b9556823e7505e9fb
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Sat Oct 14 22:05:06 2017 -0300
+
+    se cambio el tamaño
+
+commit d3ab2e146f7f44601edbb1bc533bc3bf0d3e6210
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Sat Oct 14 21:58:50 2017 -0300
+
+    se modifico un linea de prueba
+
+commit 817e41f8e0b195ff1d86c68faa799e1bf25a47ac
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Sat Oct 14 21:54:29 2017 -0300
+
+    iniciando

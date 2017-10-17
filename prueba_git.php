@@ -4,6 +4,7 @@
         <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
 
         <style>
             html, body {
@@ -32,6 +33,7 @@
 
             .title {
                 font-size: 96px;
+
             }
         </style>
     </head>
@@ -40,8 +42,8 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
         <p> <b>lorem lorem lorem</b></p>
-    <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO</p>
-    <button>autodestruccion</button>
+    <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO...</p>
+    <button type="button" class="btn btn-info">autodestruccion</button>
             </div>
         </div>
     </body>
