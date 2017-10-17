@@ -42,7 +42,7 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
         <p> <b>lorem lorem lorem</b></p>
-    <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO...</p>
+  <strong>  <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO...</p><strong>
   <strong>  <p>este es un cambio realizado desde la rama master</p></strong>
     <button type="button" class="btn btn-info">autodestruccion</button>
             </div>
