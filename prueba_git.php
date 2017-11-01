@@ -47,6 +47,7 @@
     <button type="button" class="btn btn-info"><b><p style="color: black">Enviar</p></b></button>
     <label for="">Ingrese su Nombre</label>
     <input type="text" name="name" value="ingrese su nombre">
+    <button type="button" name="button" class="btn btn-danger"><b>Cancelar</b></button>
             </div>
         </div>
     </body>
