@@ -44,7 +44,9 @@
         <p> <b>lorem lorem lorem</b></p>
   <strong>  <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO...</p><strong>
   <strong>  <p>este es un cambio realizado desde la rama test</p></strong>
-    <button type="button" class="btn btn-info">autodestruccion</button>
+    <button type="button" class="btn btn-info"><b><p style="color: black">Enviar</p></b></button>
+    <label for="">Ingrese su Nombre</label>
+    <input type="text" name="name" value="">
             </div>
         </div>
     </body>
