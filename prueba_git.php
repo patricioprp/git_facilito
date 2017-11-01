@@ -43,8 +43,15 @@
                 <div class="title">Laravel 5</div>
         <p> <b>lorem lorem lorem</b></p>
   <strong>  <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO...</p><strong>
+<<<<<<< HEAD
   <strong>  <p>este es un cambio realizado desde la rama Master</p></strong>
     <button type="button" class="btn btn-info">autodestruccion</button>
+=======
+  <strong>  <p>este es un cambio realizado desde la rama test</p></strong>
+    <button type="button" class="btn btn-info"><b><p style="color: black">Enviar</p></b></button>
+    <label for="">Ingrese su Nombre</label>
+    <input type="text" name="name" value="">
+>>>>>>> test
             </div>
         </div>
     </body>
