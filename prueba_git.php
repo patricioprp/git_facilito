@@ -43,7 +43,7 @@
                 <div class="title">Laravel 5</div>
         <p> <b>lorem lorem lorem</b></p>
   <strong>  <p>ESTA LINEA ES EL PRIMER CAMBIO QUE HAY EN EL ARCHIVO...</p><strong>
-  <strong>  <p>este es un cambio realizado desde la rama colores</p></strong>
+  <strong>  <p>este es un cambio realizado desde la rama Master</p></strong>
     <button type="button" class="btn btn-info">autodestruccion</button>
             </div>
         </div>
