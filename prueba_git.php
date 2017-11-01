@@ -50,7 +50,11 @@
   <strong>  <p>este es un cambio realizado desde la rama test</p></strong>
     <button type="button" class="btn btn-info"><b><p style="color: black">Enviar</p></b></button>
     <label for="">Ingrese su Nombre</label>
+
     <input type="text" name="name" value="">
+
+
+    <input type="text" name="name" value="ingrese su nombre">
 
             </div>
         </div>
