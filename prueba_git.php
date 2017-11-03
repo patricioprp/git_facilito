@@ -55,11 +55,9 @@
 
 
     <input type="text" name="name" value="ingrese su nombre">
-<<<<<<< HEAD
 
-=======
     <button type="button" name="button" class="btn btn-danger"><b>Cancelar</b></button>
->>>>>>> test
+
             </div>
         </div>
     </body>
