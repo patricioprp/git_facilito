@@ -51,6 +51,9 @@
   <strong><p>
     cambio realizado para subir al repositorio de git hub
   </p></strong>
+  <strong><p>
+    se genera una linea en la rama master para github
+  </p></strong>
     <button type="button" class="btn btn-info"><b><p style="color: black">Enviar</p></b></button>
     <label for="">Ingrese su Nombre</label>
 
