@@ -48,6 +48,9 @@
     <button type="button" class="btn btn-info">autodestruccion</button>
 
   <strong>  <p>este es un cambio realizado desde la rama test</p></strong>
+  <strong><p>
+    cambio realizado para subir al repositorio de git hub
+  </p></strong>
     <button type="button" class="btn btn-info"><b><p style="color: black">Enviar</p></b></button>
     <label for="">Ingrese su Nombre</label>
 

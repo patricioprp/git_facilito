@@ -1,0 +1,110 @@
+[33mcommit 397010b70312932cc163df1aaebe33f3671ffbf5[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Thu Nov 2 23:59:19 2017 -0300
+
+    se corrige texto
+
+[33mcommit 9e195a0cf9f877b9ee5759336f00b2ac4ce209a7[m
+Merge: acac702 ea4b278
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Thu Nov 2 23:57:14 2017 -0300
+
+    fusion
+
+[33mcommit ea4b2788d0bee9c4ecdd68d4278ff1c902f575cf[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:44:30 2017 -0300
+
+    se agrega boton cancelar
+
+[33mcommit acac702133285e581edc79c3c851f83c22c963bc[m
+Merge: 0b90fe8 4799152
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:41:32 2017 -0300
+
+    se borra caracteres basuras
+
+[33mcommit 47991521c38e7b3a74d3907008553c720929a2a9[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:34:36 2017 -0300
+
+    se agrega valor al tex
+
+[33mcommit 0b90fe8f3d0e1a8dbd1019f0e50b05d86d5f6a83[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:30:22 2017 -0300
+
+    se corrigen errores
+
+[33mcommit 1198a6160b3167056cc8d675e0707fbe3b850c15[m
+Merge: 71e5b6e 06c0613
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:27:13 2017 -0300
+
+    cambios varios
+
+[33mcommit 06c0613debdfff29022ec07b1377c17c82cb0f3a[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:20:12 2017 -0300
+
+    Se agrego boton de nevio, label y text y se modifico los estilos del boton enviar
+
+[33mcommit 73e23970822ec7bb7d86887beeba2cc414c41433[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Wed Nov 1 00:07:42 2017 -0300
+
+    se agrega linea para saber en que rama estamos
+
+[33mcommit 71e5b6e2afd3937f46f8e5f5c07762d8206bf868[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 31 22:00:50 2017 -0300
+
+    se agrego linea para diferenciar rama Master
+
+[33mcommit e0059ffe94f1367cdbbe07b42fe3f4613d070d8d[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 31 21:35:38 2017 -0300
+
+    se agrega linea q identifica la rama color
+
+[33mcommit 7cfe28dc8bc1b03ad9f165bc1419cabf6cc0bce9[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 17 20:54:56 2017 -0300
+
+    se pone strong a un parrafo
+
+[33mcommit 53bbdc79a9114e782bf8e3ce10648fa750f43cf2[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 17 20:48:50 2017 -0300
+
+    este cambio fue realizado desde la rama master
+
+[33mcommit 946fa22ee8cf7ce6a4b42e04ffef872049820ac5[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Tue Oct 17 20:30:08 2017 -0300
+
+    se actualiza el txt
+
+[33mcommit 823369687117dd2430eaa9eff0741f513c21a1ae[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Mon Oct 16 12:32:28 2017 -0300
+
+    se agrego boton
+
+[33mcommit f9821059391a5bc59638c45b9556823e7505e9fb[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Sat Oct 14 22:05:06 2017 -0300
+
+    se cambio el tamaño
+
+[33mcommit d3ab2e146f7f44601edbb1bc533bc3bf0d3e6210[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Sat Oct 14 21:58:50 2017 -0300
+
+    se modifico un linea de prueba
+
+[33mcommit 817e41f8e0b195ff1d86c68faa799e1bf25a47ac[m
+Author: Patricio <patricioprp06@gmail.com>
+Date:   Sat Oct 14 21:54:29 2017 -0300
+
+    iniciando
